@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/badge/-Blog-black?style=for-the-badge&logo=Github&logoColor=white&link=https://desconstruindo.furansa.me)](https://desconstruindo.furansa.me)
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCqjLwgD_PvwXjzRGHiRdjpg)](https://www.youtube.com/channel/UCqjLwgD_PvwXjzRGHiRdjpg)
 
-Electrical engineer post-graduated in automotive embedded systems and artificial intelligence/machine learning (in progress).
+Bachelor of electrical engineering post-graduated in automotive embedded systems, artificial intelligence/machine learning and masters in software engineering (in progress).
 
 Technology enthusiast focused on software engineering and data science with solid knowledge in software architecture, design, development and security, embedded systems and IoT, analog and digital electronics.
 
