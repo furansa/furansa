@@ -13,3 +13,5 @@ Finalist at Microsoft's Imagine Cup 2008 on Embedded Systems Development competi
 
 # [interesting readings]
 * [Qt Creator Tutorial Series with C++](https://prognotes.net/qt-tutorial-series)
+* [SOLID Principles — explained with examples](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace)
+* [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
