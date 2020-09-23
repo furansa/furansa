@@ -12,6 +12,7 @@ Finalist at Microsoft's Imagine Cup 2008 on Embedded Systems Development competi
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furansa&layout=compact&hide_border=true)](https://github.com/furansa?tab=repositories)
 
 # [interesting references]
+* [ISO C++](https://isocpp.org)
 * [ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)
 * [Qt Creator Tutorial Series with C++](https://prognotes.net/qt-tutorial-series)
 * [SOLID Principles — explained with examples](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace)
