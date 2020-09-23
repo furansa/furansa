@@ -9,4 +9,6 @@ Technology enthusiast focused on software engineering and data science with soli
 
 Finalist at Microsoft's Imagine Cup 2008 on Embedded Systems Development competition - Paris 2008.
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furansa&layout=compact&hide_border=true)](https://github.com/furansa?tab=repositories)
