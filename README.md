@@ -1,4 +1,5 @@
 # [about]
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/furansa)](https://www.linkedin.com/in/furansa)
 [![Blog](https://img.shields.io/badge/-Blog-black?style=for-the-badge&logo=Github&logoColor=white&link=https://desconstruindo.furansa.me)](https://desconstruindo.furansa.me)
 
@@ -8,7 +9,8 @@ Technology enthusiast focused on software engineering and data science with soli
 
 Finalist at Microsoft's Imagine Cup 2008 on Embedded Systems Development competition - Paris 2008.
 
-# [interesting references]
+# [references]
+
 * [ISO C++](https://isocpp.org)
 * [ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)
 * [Qt Creator Tutorial Series with C++](https://prognotes.net/qt-tutorial-series)
