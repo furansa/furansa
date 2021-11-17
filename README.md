@@ -7,7 +7,7 @@ Masters in Software Engineering (in progress), bachelor of Electrical Engineerin
 
 Technology enthusiast with solid knowledge in software architecture, development, quality and security.
 
-Finalist at the Microsoft's Imagine Cup competition - Paris 2008, at the embedded systems development category and jazz guitar player.
+Finalist at the Microsoft's Imagine Cup competition - Paris 2008, at the embedded systems development category, and jazz guitar player.
 
 # [references]
 
