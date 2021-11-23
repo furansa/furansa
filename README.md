@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/furansa)](https://www.linkedin.com/in/furansa)
 [![Blog](https://img.shields.io/badge/-Blog-black?style=for-the-badge&logo=Github&logoColor=white&link=https://desconstruindo.furansa.me)](https://desconstruindo.furansa.me)
 
-Master's in Software Engineering (in progress), Bachelor of Electrical Engineering and post-graduated in Automotive Embedded Systems.
+Master's in Software Engineering (in progress), Bachelor of Electrical Engineering and Post-graduated in Automotive Embedded Systems.
 
 Technology enthusiast with solid knowledge in software architecture, development, quality, and security.
 
